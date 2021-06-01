@@ -16,6 +16,7 @@
 - [dotenv-expand](https://www.npmjs.com/package/dotenv-expand) - 和dotenv搭配使用。
 - [np](https://github.com/sindresorhus/np#readme) - npm publish npm发布工具。
 - [npkill](https://github.com/voidcosmos/npkill) - 快速找到目录下node_modules文件夹，i/o操作用go编写的，效率非常高。
+- [yalc](https://www.npmjs.com/package/yalc) - package发布到本地，避免npm link繁琐操作。
 
 ## 好文推荐
 
