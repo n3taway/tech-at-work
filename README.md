@@ -17,7 +17,7 @@
 - [np](https://github.com/sindresorhus/np#readme) - npm publish npm发布工具。
 - [npkill](https://github.com/voidcosmos/npkill) - 快速找到目录下node_modules文件夹，i/o操作用go编写的，效率非常高。
 - [yalc](https://www.npmjs.com/package/yalc) - package发布到本地，避免npm link繁琐操作。
-
+- [chokidar](https://github.com/paulmillr/chokidar) - 监控文件变化，没有fs.watch奇怪的问题。
 ## 好文推荐
 
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead) - svelteJS的作者对Virtual DOM的见解。
