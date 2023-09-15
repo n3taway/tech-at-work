@@ -22,4 +22,6 @@
 - [zx](https://github.com/google/zx) - 在NodeJs环境中编写Bash脚本，google出品。
 ## 好文推荐
 
-- [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead) - svelteJS的作者对Virtual DOM的见解。
+- [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead) svelteJS的作者对Virtual DOM的见解。
+- [Chrome View Transitions API](https://developer.chrome.com/docs/web-platform/view-transitions/) 谷歌支持页面过渡动画 View Transitions API
+- [Unlocking view transitions in SvelteKit 1.24](https://svelte.dev/blog/view-transitions) 在 SvelteKit 1.24 中使用 view transitions 
