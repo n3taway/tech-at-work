@@ -27,4 +27,6 @@
 - [Unlocking view transitions in SvelteKit 1.24](https://svelte.dev/blog/view-transitions) 在 SvelteKit 1.24 中使用 view transitions
 - [Astro View Transitions doc](https://docs.astro.build/en/guides/view-transitions/) 前端“岛屿”架构的框架 astro 3.0 支持 view transitions
 
-  
+## 2023 你应该试试这些
+
+- 20230908 Bun 发布 1.0。强劲的性能、与 Web Api 保持一致。试着用她的包管理工具链，例如：使用 bun 初始化 react-native 项目。
