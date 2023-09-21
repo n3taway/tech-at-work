@@ -24,8 +24,9 @@
 
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead) svelteJS的作者对Virtual DOM的见解。
 - [Chrome View Transitions API](https://developer.chrome.com/docs/web-platform/view-transitions/) 谷歌支持页面过渡动画 View Transitions API
-- [Unlocking view transitions in SvelteKit 1.24](https://svelte.dev/blog/view-transitions) 在 SvelteKit 1.24 中使用 view transitions
-- [Astro View Transitions doc](https://docs.astro.build/en/guides/view-transitions/) 前端“岛屿”架构的框架 astro 3.0 支持 view transitions
+- [Unlocking view transitions in SvelteKit 1.24](https://svelte.dev/blog/view-transitions) 在 SvelteKit 1.24 中使用 View Transitions
+- [Astro View Transitions doc](https://docs.astro.build/en/guides/view-transitions/) 前端“岛屿”架构的框架 Astro 3.0 支持 View Transitions
+- [Astro View Transitions](https://developer.chrome.com/blog/astro-view-transitions/) Astro View Transitions
 
 ## 2023 你应该试试这些
 
